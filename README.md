@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ElmerCoetzee
-- 👀 I’m interested in becoming a full stack .net developer.
+- 👀 I’m a full stack .net developer.
 - 🌱 I’m currently learning alot with C#, JavaScript, Angular 10, DevExpress, Azure and who will leave out MS SQL.
 - 💞️ I’m looking to collaborate on Financial systems or anything to upskill myself in reaching my goals.
-- 📫 How to reach me find me on LinkedIn.
-
-
+- 📫 How to reach me find me on LinkedIn: www.linkedin.com/in/elmer-coetzee-86527a114.
+- 📨 You can also contact me on email via coetzeeelmer@gmail.com (Please note any spam or phising will be reported to https://www.cisa.gov).
+- 🔏 All my repos will be private until permission is requested.
+- 📱 Recently started mobile app development as well.
